@@ -42,12 +42,6 @@ Python • NLP • Random Forest • K-Means
 Built a Random Forest classifier on 10,000+ rows achieving a 12% accuracy improvement adopted directly by client teams. Applied K-Means clustering to segment audiences. Replaced manual reporting with 3 live KPI dashboards.
 View Project →
 
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" width="40%"/>
-</p>
-
 🎓 Education & Certifications
 
 🎓 MSc Data Science — University of South Wales, UK (2024–2025)
