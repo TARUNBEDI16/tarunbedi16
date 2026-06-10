@@ -71,11 +71,6 @@ I'm a **Data Analyst** based in London with an **MSc in Data Science** and hands
 
 ## 💼 Experience
 
-**🏢 Junior Data Analyst — AMS, UK** *(Jan 2026 – Jun 2026)*
-- Delivered weekly & monthly MI reports translating raw hiring data into clear business narratives for internal and external stakeholders
-- Conducted ad hoc analysis supporting headcount planning, diversity reporting, and sourcing channel performance
-- Built SOPs that improved team consistency and onboarding efficiency
-
 **📊 Data Science Intern — Shape My Skills Pvt. Ltd, India** *(Jul – Aug 2023)*
 - Built Random Forest & K-Means models on 10,000+ row datasets — achieved **12% accuracy improvement**, directly adopted by client teams
 - Designed interactive KPI dashboards across 3 business departments
