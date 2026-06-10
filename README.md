@@ -104,7 +104,7 @@ Analysed **1M+ real UK retail transactions** to segment ~3,900 customers into 4 
 
 Analysed **50,000+ customer transaction records** to uncover purchasing behaviour and sales trends. Identified high-value segments and underperforming store layouts. Delivered a business-ready report for a category manager.
 
-[**View Project →**]([https://github.com/YOUR_USERNAME/quantium-simulation](https://www.theforage.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_d2493Yd7aWy2vTR2T_1772077808156_completion_certificate.pdf))
+[**View Project →**](https://www.theforage.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_d2493Yd7aWy2vTR2T_1772077808156_completion_certificate.pdf)
 
 ---
 
