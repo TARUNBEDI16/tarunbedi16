@@ -104,7 +104,7 @@ Analysed **1M+ real UK retail transactions** to segment ~3,900 customers into 4 
 
 Analysed **50,000+ customer transaction records** to uncover purchasing behaviour and sales trends. Identified high-value segments and underperforming store layouts. Delivered a business-ready report for a category manager.
 
-[**View Project →**](https://github.com/YOUR_USERNAME/quantium-simulation)
+[**View Project →**]([https://github.com/YOUR_USERNAME/quantium-simulation](https://www.theforage.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_d2493Yd7aWy2vTR2T_1772077808156_completion_certificate.pdf))
 
 ---
 
@@ -116,15 +116,6 @@ Analysed **50,000+ customer transaction records** to uncover purchasing behaviou
 Built a Random Forest classifier on **10,000+ rows** achieving a **12% accuracy improvement** adopted by client teams. Applied K-Means to segment audiences. Replaced hours of manual reporting with 3 live KPI dashboards.
 
 [**View Project →**](https://github.com/YOUR_USERNAME/nlp-social-media-analysis)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" width="40%"/>
-</div>
 
 ---
 
