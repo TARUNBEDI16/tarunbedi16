@@ -94,7 +94,7 @@ I'm a **Junior Data Analyst** based in London with an **MSc in Data Science** an
 
 Analysed **1M+ real UK retail transactions** to segment ~3,900 customers into 4 actionable groups using RFM feature engineering and K-Means clustering. Built an interactive Power BI dashboard tracking segment KPIs and £ revenue trends across 2 years.
 
-[**View Project →**]([https://github.com/tarunbed16/uk-retail-segmentation](https://tarunbedi16.github.io/uk-retail-segmentation/dashboard.html))
+[**View Project →**](file:///Users/tarunbedi/Downloads/dashboard.html)
 
 ---
 
