@@ -71,6 +71,12 @@ I'm a **Data Analyst** based in London with an **MSc in Data Science** and hands
 
 ## 💼 Experience
 
+**📊 IT Data Receptionist — SIM-TEK WORLD LTD, Cardiff, UK** *(Jan – Feb 2026)*
+- Maintained and updated client and operational databases, ensuring data integrity and accuracy across all digital records
+- Processed and logged incoming data requests and IT support tickets, using internal systems to track status, resolution time, and department-level reporting
+- Supported data entry and document management workflows, contributing to structured record-keeping and information retrieval processes
+- Acted as a point of contact between technical teams and clients, translating technical information clearly building the communication bridge between IT and non-technical stakeholders
+
 **📊 Data Science Intern — Shape My Skills Pvt. Ltd, India** *(Jul – Aug 2023)*
 - Built Random Forest & K-Means models on 10,000+ row datasets — achieved **12% accuracy improvement**, directly adopted by client teams
 - Designed interactive KPI dashboards across 3 business departments
