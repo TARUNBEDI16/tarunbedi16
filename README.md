@@ -115,7 +115,7 @@ Analysed **50,000+ customer transaction records** to uncover purchasing behaviou
 
 Built a Random Forest classifier on **10,000+ rows** achieving a **12% accuracy improvement** adopted by client teams. Applied K-Means to segment audiences. Replaced hours of manual reporting with 3 live KPI dashboards.
 
-[**View Project →**](https://github.com/YOUR_USERNAME/nlp-social-media-analysis)
+[**View Project →**](https://tarunbedi16.github.io/US-Airline-Twitter-Sentiment-Analysis/tweets_dashboard.html)
 
 ---
 
