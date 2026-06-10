@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Tarunjeet Singh Bedi 👋
-### Junior Data Analyst | MSc Data Science | London, UK
+### Data Analyst | MSc Data Science | London, UK
 
 <a href="https://www.linkedin.com/in/tarunjeetsingh">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,11 +16,10 @@
 
 ## 🔍 About Me
 
-I'm a **Junior Data Analyst** based in London with an **MSc in Data Science** and hands-on experience delivering analytics at **AMS UK**.
+I'm a **Data Analyst** based in London with an **MSc in Data Science** and hands-on experience delivering analytics.
 
 > *Most analysts give you the answer. I give you the answer, **the reason it matters, and the decision you should make next.***
 
-- 🏢 Junior Data Analyst @ **AMS, UK** — MI reporting, workforce analytics, diversity & headcount data
 - 🎓 **MSc Data Science** — University of South Wales (2024–2025)
 - 💬 Working with: `Python` `SQL` `Power BI` `Pandas` `Scikit-learn`
 - 📈 Currently upskilling in: **Generative AI, MLOps, and Cloud Data Engineering**
