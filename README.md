@@ -108,7 +108,7 @@ Analysed **50,000+ customer transaction records** to uncover purchasing behaviou
 
 ---
 
-### 💬 Social Media Sentiment Analysis — NLP
+### 💬 US Airline Twitter Sentiment Analysis — NLP
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
