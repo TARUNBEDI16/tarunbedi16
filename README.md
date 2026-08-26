@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tarunjeet Singh Bedi 👋
+# Hi, I'm Tikka Tarunjeet Singh Bedi 👋
 ### Data Analyst | MSc Data Science | London, UK
 
 <a href="https://www.linkedin.com/in/tarunjeetsingh">
@@ -71,16 +71,14 @@ I'm a **Data Analyst** based in London with an **MSc in Data Science** and hands
 
 ## 💼 Experience
 
-**📊 IT Data Receptionist — SIM-TEK WORLD LTD, Cardiff, UK** *(Jan – Feb 2026)*
-- Maintained and updated client and operational databases, ensuring data integrity and accuracy across all digital records
-- Processed and logged incoming data requests and IT support tickets, using internal systems to track status, resolution time, and department-level reporting
-- Supported data entry and document management workflows, contributing to structured record-keeping and information retrieval processes
-- Acted as a point of contact between technical teams and clients, translating technical information clearly building the communication bridge between IT and non-technical stakeholders
-
 **📊 Data Science Intern — Shape My Skills Pvt. Ltd, India** *(Jul – Aug 2023)*
-- Built Random Forest & K-Means models on 10,000+ row datasets — achieved **12% accuracy improvement**, directly adopted by client teams
-- Designed interactive KPI dashboards across 3 business departments
-- Presented complex outputs to non-technical stakeholders, influencing client strategy
+Worked in a cross-functional team of Analysts and Product Managers within Forecasting and combinatorial Optimisation
+domains.
+• Implemented Random Forest and K-Means models on 10,000+ row datasets, achieving a 7% uplift in prediction accuracy
+with outputs adopted directly by client teams for operational decision-making.
+• Designed interactive dashboards in Power BI for better real-time performance monitoring and data-driven planning.
+• Collaborated effectively with analysts, product managers under tight deadlines, translating complex business problems
+into actionable data-driven solutions
 
 ---
 
